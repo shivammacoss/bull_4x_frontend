@@ -62,7 +62,7 @@ const Sidebar = ({ activeView, setActiveView, onToggleInstruments, showInstrumen
       {/* Logo */}
       <div className="mb-6">
         <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-green-500 to-green-700 flex items-center justify-center font-bold text-white text-sm">
-          FX
+          B4X
         </div>
       </div>
       
